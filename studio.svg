@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" viewBox="0 0 900 500">
+<rect width="900" height="500" fill="#e0f2fe"/>
+<rect y="360" width="900" height="140" fill="#94a3b8"/>
+<rect x="180" y="120" width="540" height="240" fill="#f8fafc" stroke="#0f172a" stroke-width="8"/>
+<rect x="420" y="220" width="90" height="140" fill="#cbd5e1"/>
+<rect x="250" y="200" width="110" height="90" fill="#dbeafe"/>
+<rect x="540" y="200" width="110" height="90" fill="#dbeafe"/>
+<rect x="180" y="120" width="540" height="55" fill="#f59e0b"/>
+<text x="270" y="158" font-size="34" fill="#78350f" font-family="Arial">SECOND CHANCE SHOP</text>
+<circle cx="220" cy="390" r="24" fill="#334155"/>
+<circle cx="680" cy="390" r="24" fill="#334155"/>
+</svg>

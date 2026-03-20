@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" viewBox="0 0 900 500">
+<rect width="900" height="500" fill="#fde68a"/>
+<rect y="340" width="900" height="160" fill="#d97706"/>
+<rect x="70" y="180" width="220" height="160" fill="#fca5a5"/>
+<polygon points="70,180 180,110 290,180" fill="#ef4444"/>
+<rect x="340" y="170" width="220" height="170" fill="#93c5fd"/>
+<polygon points="340,170 450,100 560,170" fill="#2563eb"/>
+<rect x="610" y="190" width="220" height="150" fill="#86efac"/>
+<polygon points="610,190 720,120 830,190" fill="#16a34a"/>
+<circle cx="170" cy="245" r="28" fill="#f97316"/>
+<circle cx="445" cy="245" r="28" fill="#22c55e"/>
+<circle cx="725" cy="245" r="28" fill="#eab308"/>
+<text x="90" y="390" font-size="36" fill="#7c2d12" font-family="Arial">Opportunity Market</text>
+</svg>
